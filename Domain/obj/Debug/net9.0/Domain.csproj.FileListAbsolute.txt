@@ -1,0 +1,11 @@
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/bin/Debug/net9.0/Domain.deps.json
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/bin/Debug/net9.0/Domain.dll
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/bin/Debug/net9.0/Domain.pdb
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/obj/Debug/net9.0/Domain.dll
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/obj/Debug/net9.0/refint/Domain.dll
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/obj/Debug/net9.0/Domain.pdb
+/home/hacker/C##/kurci_C#.Net_WEB/Day-2/Classtask/Domain/obj/Debug/net9.0/ref/Domain.dll
